@@ -2,6 +2,24 @@ h1 {
     color: white;
 }
 
+h3 {
+    color: white;
+}
+
+/* unvisited link */
+a:link {
+    color: #33adff;
+}
+
+/* visited link */
+a:visited {
+    color: #d580ff;
+}
+
+p {
+    color: white;
+}
+
 body {
     background-color: black;
 }
