@@ -56,5 +56,6 @@ html {
 body {
     display: table-cell;
     vertical-align: middle;
+    align-content: center;
     background-color: black;
 }
